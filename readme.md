@@ -10,11 +10,11 @@ StartQuest is a decentralized space-themed quiz game that integrates blockchain 
 - Fully decentralized with no reliance on intermediaries.
 
 ## Contract Details
-- *Contract Address*: 0x\<your_contract_address_here>
-- *Network*: Ethereum Testnet (e.g., Sepolia or Mantle Sepolia)
+- *Contract Address*: 0x4da4c531C4331C5964c682eA09343986b79ad6F1
+- *Network*: Ethereum Testnet (Mantle Sepolia)
 
 ## Deployment
-- *Contract Address*: View on Explorer
+- *Contract Address*: [View on Explorer](https://sepolia.mantlescan.xyz/address/0x4da4c531C4331C5964c682eA09343986b79ad6F1#tokentxns)
 - *Coin Used*: TMT (TheMythicToken)
 
 ## How to Use
